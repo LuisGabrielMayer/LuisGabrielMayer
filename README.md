@@ -3,7 +3,7 @@
 Estudante de Desenvolvimento de Sistemas, com interesse em programação, jogos e automação.
 
 ## 🛠️ Tecnologias
-HTML • CSS • JavaScript • Java • MySQL • Arduino • Git
+HTML • CSS • JavaScript • Java • MySQL • Arduino • Git • Python
 
 ## 🚀 Projetos
 - [Flappy-Project](link) – jogo estilo Flappy Bird com auxilio do Claude I.A
