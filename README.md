@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Luis Gabriel 👋
 
-<!--
-**LuisGabrielMayer/LuisGabrielMayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento de Sistemas, com interesse em programação, jogos e automação.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+HTML • CSS • JavaScript • Java • MySQL • Arduino • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+- [Flappy-Project](link) – jogo estilo Flappy Bird com sprite próprio
+- [asteroid2](link) – jogo em JavaScript
+
+## 📫 Contato
+[LinkedIn](link) • luisgabrielmayersemcovici@gmail.com
