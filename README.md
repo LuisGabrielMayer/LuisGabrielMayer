@@ -6,7 +6,7 @@ Estudante de Desenvolvimento de Sistemas, com interesse em programação, jogos 
 HTML • CSS • JavaScript • Java • MySQL • Arduino • Git
 
 ## 🚀 Projetos
-- [Flappy-Project](link) – jogo estilo Flappy Bird com sprite próprio
+- [Flappy-Project](link) – jogo estilo Flappy Bird com auxilio do Claude I.A
 - [asteroid2](link) – jogo em JavaScript
 
 ## 📫 Contato
